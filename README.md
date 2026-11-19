@@ -1,8 +1,8 @@
 # Museum Detectives
 
-A Language in Action field-trip game for the British Museum. Student teams solve 14 object mysteries, take photo evidence, and race for a place on a live leaderboard.
+### 🔗 Play it: [british-museum-detectives.pages.dev](https://british-museum-detectives.pages.dev)
 
-**Live site:** https://british-museum-detectives.pages.dev
+A Language in Action field-trip game for the British Museum. Student teams solve 14 object mysteries, take photo evidence, and race for a place on a live leaderboard.
 
 ## How it works
 
